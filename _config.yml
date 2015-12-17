@@ -1,0 +1,14 @@
+layout_spectrum: 0.3168135
+typography_spectrum: 0.8420057
+color:
+  saturation: 0.9742654
+  lightness: 0.3995992
+  brandStrength: 0.5084317
+  brandColors:
+    - '#4C4D43'
+    - '#9A654B'
+    - '#C7BEA2'
+    - '#FEFFF3'
+    - '#4B281E'
+  rhythmicContrast: 0.9746914
+name: Stakt Construction
